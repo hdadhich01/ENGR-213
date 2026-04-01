@@ -1,0 +1,2 @@
+# PSET 5: Decision Analysis - Python dependencies
+PuLP>=2.7.0
